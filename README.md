@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sneha Chaudhari
 - 👀 I’m interested in Python/PHP/Wordpress Projects
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python Data Science
 - 📫 How to reach me https://www.linkedin.com/in/sc-509ab57a
 
 <!---
